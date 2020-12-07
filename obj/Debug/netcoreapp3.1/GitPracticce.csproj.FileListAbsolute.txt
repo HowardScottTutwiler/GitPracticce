@@ -1,0 +1,13 @@
+C:\Users\Scott 1\repos\GitPracticce\bin\Debug\netcoreapp3.1\GitPracticce.exe
+C:\Users\Scott 1\repos\GitPracticce\bin\Debug\netcoreapp3.1\GitPracticce.deps.json
+C:\Users\Scott 1\repos\GitPracticce\bin\Debug\netcoreapp3.1\GitPracticce.runtimeconfig.json
+C:\Users\Scott 1\repos\GitPracticce\bin\Debug\netcoreapp3.1\GitPracticce.runtimeconfig.dev.json
+C:\Users\Scott 1\repos\GitPracticce\bin\Debug\netcoreapp3.1\GitPracticce.dll
+C:\Users\Scott 1\repos\GitPracticce\bin\Debug\netcoreapp3.1\GitPracticce.pdb
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.csprojAssemblyReference.cache
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.AssemblyInfoInputs.cache
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.AssemblyInfo.cs
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.csproj.CoreCompileInputs.cache
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.dll
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.pdb
+C:\Users\Scott 1\repos\GitPracticce\obj\Debug\netcoreapp3.1\GitPracticce.genruntimeconfig.cache
