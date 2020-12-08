@@ -10,7 +10,7 @@ namespace GitPracticce
             var auto = new List<int>() { 1, 2, 3 };
             foreach (var item in auto)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(1);
             }
         }
     }
